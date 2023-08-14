@@ -50,7 +50,9 @@
 <h3>Три уровня сложности</h3>
 <p> На данном этапе реализованн один уровень сложности, от 1 до 25 (leval easy)</p>
 
-![Image for project](https://github.com/OlKomar35/shulte_table/blob/master/images_for_project/screen4.jpg)
+Данный раздел находится в разработке
+
+![Image for project](https://github.com/OlKomar35|shulte_table/blob/master/images_for_project/screen4.jpg)
 
 <h3>Вывод результата</h3>
 
