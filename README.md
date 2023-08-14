@@ -52,7 +52,7 @@
 
 Данный раздел находится в разработке
 
-![Image for project](https://github.com/OlKomar35/shulte_table/blob/master/images_for_project/screen4.jpg)
+![Image for project](https://github.com/OlKomar35|shulte_table/blob/master/images_for_project/screen4.jpg)
 
 <h3>Вывод результата</h3>
 
